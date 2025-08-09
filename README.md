@@ -11,7 +11,7 @@
 
 - 👨‍💻 Some of my projects are available at [https://harmant05.github.io/Portfolio-Website/](https://harmant05.github.io/Portfolio-Website/)
 
-- 📫 How to reach me **tripathiharendra05@gmail.com**
+- 📫 Reach me on **tripathiharendra05@gmail.com**
 
 - ⚡ Fun fact **I'm observer😊**
 
@@ -20,9 +20,9 @@
 
 <a href="https://twitter.com/harmant_05" target="blank">
   <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" alt="harmant_05" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/harendra mani tripathi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harendra mani tripathi" height="30" width="40" /></a>
-<a href="https://fb.com/harendra mani tripathi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="harendra mani tripathi" height="30" width="40" /></a>
-<a href="https://instagram.com/harendra mani tripathi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harendra mani tripathi" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/harendra-mani-tripathi-56a541255?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harendra mani tripathi" height="30" width="40" /></a>
+<a href="https://www.facebook.com/share/16jUJDMUsJ/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="harendra mani tripathi" height="30" width="40" /></a>
+<a href="https://www.instagram.com/harmant_05/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harendra mani tripathi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
