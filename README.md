@@ -68,14 +68,13 @@ Web-based platform to manage event registrations, venue selection, food catering
 
 **Personal Portfolio Website** — *Personal Project*
 Responsive personal portfolio built using HTML, CSS, and JavaScript to showcase technical skills and projects.
-
+🔗 [Live Demo](https://harmant05.github.io/Personal-Website/)
 <br/>
 
 ## Experience
 
-**Zeroday Hackathon** — SIES College of Arts, Science & Commerce, Sion (W)
-Participant
-
+**Zeroday Hackathon** — SIES College of Arts, Science & Commerce, Sion (W) | **Participant**
+🔗 [View Details](https://github.com/eventzeroday/BetterCallSQL/blob/main/README.md)
 <br/>
 
 ## Certifications
