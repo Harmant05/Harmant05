@@ -62,30 +62,26 @@ Data Science student pursuing an M.Sc. at SIES College (University of Mumbai), w
 
 ## Projects
 
-**Event Management System** — *Academic Project*
-Web-based platform to manage event registrations, venue selection, food catering, vehicle allocation, and music bookings.
-🔗 [Live Demo](https://harmant05.github.io/Event-Management-Project/)
-
-**Personal Portfolio Website** — *Personal Project*
+**Personal Portfolio Website** — *A summary of all Projects*
 Responsive personal portfolio built using HTML, CSS, and JavaScript to showcase technical skills and projects.
 🔗 [Live Demo](https://harmant05.github.io/Personal-Website/)
 <br/>
 
 ## Experience
 
-**Zeroday Hackathon** — SIES College of Arts, Science & Commerce, Sion (W) | **Participant**
-🔗 [View Details](https://github.com/eventzeroday/BetterCallSQL/blob/main/README.md)
-<br/>
+Seeking Data Analyst/Consultant Opportunities
 
 ## Certifications
 
 | Certificate | Issuing Organization |
 |---|---|
 | Data Science and Analytics | HP Life |
-| AI for Beginners | HP Life |
+| Data Analytics | Deloitte |
 | Data Visualization | TATA Forage |
 | AI Skills Passport | Microsoft & EY |
-
+| **Zeroday Hackathon** — SIES College of Arts, Science & Commerce, Sion (W) | **Participant**
+🔗 [View Details](https://github.com/eventzeroday/BetterCallSQL/blob/main/README.md)
+<br/>
 <br/>
 
 ## GitHub Statistics
