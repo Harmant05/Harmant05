@@ -63,8 +63,8 @@ Data Science student pursuing an M.Sc. at SIES College (University of Mumbai), w
 ## Projects
 
 **Personal Portfolio Website** — *A summary of all Projects*
-Responsive personal portfolio built using HTML, CSS, and JavaScript to showcase technical skills and projects.
-🔗 [Live Demo](https://harmant05.github.io/Personal-Website/)
+Showcased technical skills and projects and all information.
+🔗 [Live preview](https://harmant05.github.io/Personal-Website/)
 <br/>
 
 ## Experience
@@ -79,8 +79,7 @@ Seeking Data Analyst/Consultant Opportunities
 | Data Analytics | Deloitte |
 | Data Visualization | TATA Forage |
 | AI Skills Passport | Microsoft & EY |
-| **Zeroday Hackathon** — SIES College of Arts, Science & Commerce, Sion (W) | **Participant**
-🔗 [View Details](https://github.com/eventzeroday/BetterCallSQL/blob/main/README.md)
+| **Zeroday Hackathon** — SIES College of Arts, Science & Commerce, Sion (W) | **Participant**🔗 [View Details](https://github.com/eventzeroday/BetterCallSQL/blob/main/README.md)|
 <br/>
 <br/>
 
