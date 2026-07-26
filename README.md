@@ -87,8 +87,8 @@ Seeking Data Analyst/Consultant Opportunities
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Harmant05&show_icons=true&theme=default&hide_border=true&title_color=A78BFA&icon_color=7C3AED&text_color=D1D5DB&bg_color=0A0A23" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harmant05&layout=compact&theme=default&hide_border=true&title_color=A78BFA&text_color=D1D5DB&bg_color=0A0A23" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api?username=Harmant05&show_icons=true&theme=default&hide_border=true&title_color=A78BFA&icon_color=7C3AED&text_color=D1D5DB&bg_color=0A0A23" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Harmant05&layout=compact&theme=default&hide_border=true&title_color=A78BFA&text_color=D1D5DB&bg_color=0A0A23" height="165"/>
 
 </div>
 
@@ -115,7 +115,7 @@ Seeking Data Analyst/Consultant Opportunities
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Harmant05/Harmant05/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/Harmant05/Harmant05/output/github-contribution-grid-snake-green.svg"/>
 
 </div>
 
