@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner.png" alt="Harendra Mani Tripathi" width="100%"/>
+<img src="PAN.png" alt="Harendra Mani Tripathi" width="100%"/>
 
 <a href="https://www.linkedin.com/in/harmant"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:tripathiharendra05@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -18,7 +18,7 @@ Focused on data analysis, ML & visualization. Seeking Data Analyst / SQL Develop
 ### <img src="https://cdn.simpleicons.org/python/3776AB" width="20"/> Stack
  
 <p align="center">
-<code>Python</code> <code>R</code> <code>SQL</code> <code>MySQL</code> <code>MongoDB</code> <code>Power BI</code> <code>Tableau</code> <code>DAX</code> <code>JS</code> <code>Node.js</code> <code>Git</code>
+<kbd>Python</kbd> <kbd>R</kbd> <kbd>SQL</kbd> <kbd>MySQL</kbd> <kbd>MongoDB</kbd> <kbd>Power BI</kbd> <kbd>Tableau</kbd> <kbd>DAX</kbd> <kbd>JavaScript</kbd> <kbd>Node.js</kbd> <kbd>Git</kbd>
 </p>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,r,html,css,js,nodejs,mysql,mongodb,git,github,vscode,linux&theme=dark&perline=8"/>
@@ -29,19 +29,19 @@ Focused on data analysis, ML & visualization. Seeking Data Analyst / SQL Develop
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=Harmant05&show_icons=true&theme=default&hide_border=true&title_color=A78BFA&icon_color=7C3AED&text_color=D1D5DB&bg_color=0A0A23" height="165"/>
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Harmant05&layout=compact&theme=default&hide_border=true&title_color=A78BFA&text_color=D1D5DB&bg_color=0A0A23" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api?username=Harmant05&show_icons=true&theme=default&hide_border=true&title_color=A78BFA&icon_color=7C3AED&text_color=D1D5DB&bg_color=0A0A23" width="90%"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Harmant05&layout=compact&theme=default&hide_border=true&title_color=A78BFA&text_color=D1D5DB&bg_color=0A0A23" width="90%"/>
 
 </div>
 
 ### <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="20"/> LeetCode Dashboard
  
 <div align="center">
-<img src="https://leetcard.jacoblin.cool/Armor_Harmant05?theme=dark&font=baloo2&ext=heatmap" width="80%"/>
+<img src="https://leetcard.jacoblin.cool/Armor_Harmant05?theme=dark&font=baloo2&ext=heatmap" width="90%"/>
 </div>
 
 <div align="center">
-<img src="https://streak-stats.demolab.com/?user=Harmant05&theme=dark&hide_border=true" width="80%"/>
+<img src="https://streak-stats.demolab.com/?user=Harmant05&theme=dark&hide_border=true" width="90%"/>
 </div>
 
 <br/>
