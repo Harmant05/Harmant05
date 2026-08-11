@@ -1,89 +1,31 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A23,50:2E1065,100:4C1D95&height=200&section=header&text=Harendra%20Mani%20Tripathi&fontSize=38&fontColor=E9D5FF&fontAlignY=38&desc=Data%20Science%20Student%20%7C%20SIES%20College,%20University%20of%20Mumbai&descAlignY=62&descSize=16&descColor=D1D5DB&animation=fadeIn" width="100%"/>
+<img src="banner.png" alt="Harendra Mani Tripathi" width="100%"/>
 
-<br/>
-
-<a href="https://www.linkedin.com/in/harmant"><img src="https://img.shields.io/badge/LinkedIn-4C1D95?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:tripathiharendra05@gmail.com"><img src="https://img.shields.io/badge/Email-312E81?style=flat-square&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/Harmant05"><img src="https://img.shields.io/badge/GitHub-1E1B4B?style=flat-square&logo=github&logoColor=white"/></a>
-
-</div>
-
-<br/>
-
-## Profile
-
-Data Science student pursuing an M.Sc. at SIES College (University of Mumbai), with a B.Sc. in Information Technology. Focused on data analysis, machine learning, and visualization, with hands-on experience through academic and personal projects. Currently a fresher, seeking internship and entry-level opportunities to apply my skills to real-world business problems.
-
-<br/>
-
-## Education
-
-<div align="center">
-
-| Degree | Institution | Duration | Score |
-|:---:|:---:|:---:|:---:|
-| M.Sc. Data Science | SIES College of Arts, Science & Commerce, Sion (W) — University of Mumbai | 2025 – Present | In Progress |
-| B.Sc. Information Technology | NES Ratnam College of Arts, Science & Commerce, Bhandup (W) — University of Mumbai | 2022 – 2025 | CGPI: 8.15 |
-| HSC | BMGN Inter College, UP Board | 2021 – 2022 | 72% |
-| SSC | BMGN Inter College, UP Board | 2019 – 2020 | 84.17% |
+<a href="https://www.linkedin.com/in/harmant"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:tripathiharendra05@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/Harmant05"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://leetcode.com/u/Armor_Harmant05/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="https://harmant05.github.io/Portfolio-Website/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
 </div>
 
 <br/>
 
-## Technical Skills
+M.Sc. Data Science student at SIES College (University of Mumbai) | B.Sc. IT, NES Ratnam College — CGPI 8.15
+Focused on data analysis, ML & visualization. Seeking Data Analyst / SQL Developer opportunities.
 
-<div align="center">
+### <img src="https://cdn.simpleicons.org/python/3776AB" width="20"/> Stack
+ 
+<p align="center">
+<code>Python</code> <code>R</code> <code>SQL</code> <code>MySQL</code> <code>MongoDB</code> <code>Power BI</code> <code>Tableau</code> <code>DAX</code> <code>JS</code> <code>Node.js</code> <code>Git</code>
+</p>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,r,html,css,js,nodejs,mysql,mongodb,git,github,vscode,linux&theme=dark&perline=8"/>
+</p>
+---
 
-| Category | Skills |
-|:---:|:---:|
-| **Languages** | Python, R, HTML, CSS, JavaScript |
-| **Frameworks** | Node.js |
-| **Databases** | MySQL, SQL, MongoDB |
-| **Tools** | Git, GitHub, VS Code, IntelliJ IDEA, PyCharm |
-| **Operating Systems** | Windows, Linux (basic) |
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=python,r,html,css,js,nodejs,mysql,mongodb,git,github,vscode,pycharm,idea,linux&theme=dark&perline=8"/>
-
-</div>
-
-<br/>
-
-## Projects
-
-**Personal Portfolio Website** — *A summary of all Projects*
-Showcased technical skills and projects and all information.
-🔗 [Live preview](https://harmant05.github.io/Personal-Website/)
-
-<br/>
-
-## Experience
-
-Seeking Data Analyst/Consultant Opportunities
-
-<br/>
-
-## Certifications
-
-<div align="center">
-
-| Certificate | Issuing Organization |
-|:---:|:---:|
-| Data Science and Analytics | HP Life |
-| Data Analytics | Deloitte |
-| Data Visualization | TATA Forage |
-| AI Skills Passport | Microsoft & EY |
-| **Zeroday Hackathon** — SIES College of Arts, Science & Commerce, Sion (W) | **Participant** 🔗 [View Details](https://github.com/eventzeroday/BetterCallSQL/blob/main/README.md) |
-
-</div>
-
-<br/>
-
-## GitHub Statistics
+### <img src="https://cdn.simpleicons.org/github/ffffff" width="20"/> GitHub Stats
 
 <div align="center">
 
@@ -92,33 +34,22 @@ Seeking Data Analyst/Consultant Opportunities
 
 </div>
 
-<br/>
+### <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="20"/> LeetCode Dashboard
+ 
+<div align="center">
+<img src="https://leetcard.jacoblin.cool/Armor_Harmant05?theme=dark&font=baloo2&ext=heatmap" width="80%"/>
+</div>
 
-## Additional Information
-
-**Languages:** English, Hindi
+<div align="center">
+<img src="https://streak-stats.demolab.com/?user=Harmant05&theme=dark&hide_border=true" width="80%"/>
+</div>
 
 <br/>
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/harmant"><img src="https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:tripathiharendra05@gmail.com"><img src="https://img.shields.io/badge/Email-312E81?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Harmant05&style=flat-square&color=6D28D9&label=Profile+Views"/>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Harmant05.Harmant05" height="20"/>
 
 </div>
 
-## Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Harmant05/Harmant05/output/github-contribution-grid-snake-green.svg"/>
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:2E1065,100:0A0A23&height=150&section=footer" width="100%"/>
+---
