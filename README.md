@@ -25,8 +25,8 @@ Focused on data analysis, ML & visualization. Seeking Data Analyst / SQL Develop
 </p>
 ---
 
-### <img src="https://cdn.simpleicons.org/github/ffffff" width="20"/> GitHub Stats
-
+### <img src="https://cdn.simpleicons.org/github/000000" width="20" height="20" alt="GitHub"> GitHub Stats
+ 
 <div align="center">
 
 <img src="https://github-stats-extended.vercel.app/api?username=Harmant05&show_icons=true&theme=default&hide_border=true&title_color=A78BFA&icon_color=7C3AED&text_color=D1D5DB&bg_color=0A0A23" width="90%"/>
@@ -38,10 +38,6 @@ Focused on data analysis, ML & visualization. Seeking Data Analyst / SQL Develop
  
 <div align="center">
 <img src="https://leetcard.jacoblin.cool/Armor_Harmant05?theme=dark&font=baloo2&ext=heatmap" width="90%"/>
-</div>
-
-<div align="center">
-<img src="https://streak-stats.demolab.com/?user=Harmant05&theme=dark&hide_border=true" width="90%"/>
 </div>
 
 <br/>
