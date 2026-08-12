@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="PAN.png" alt="Harendra Mani Tripathi" width="100%"/>
+<img src="PAN.PNG" alt="Harendra Mani Tripathi" width="100%"/>
 
 <a href="https://www.linkedin.com/in/harmant"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:tripathiharendra05@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
