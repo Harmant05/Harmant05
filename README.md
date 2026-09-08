@@ -12,8 +12,8 @@
 
 <br/>
 
-M.Sc. Data Science student at SIES College (University of Mumbai) | B.Sc. IT, NES Ratnam College — CGPI 8.15
-Focused on data analysis, ML & visualization. Seeking Data Analyst / SQL Developer opportunities.
+M.Sc. Data Science student at SIES College (University of Mumbai) | B.Sc. IT, NES Ratnam College — CGPI 8.15,
+focused on Data Analytics, ML & Visualization. Seeking Data Analyst / SQL Developer opportunities.
 
 ### <img src="https://cdn.simpleicons.org/python/3776AB" width="20"/> Stack
  
